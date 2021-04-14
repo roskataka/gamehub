@@ -1,0 +1,23 @@
+{
+  "name": "game-hub",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/roskataka/game-hub/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roskataka/game-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roskataka/game-hub/issues"
+  },
+  "homepage": "https://roskataka.github.io/game-hub",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
